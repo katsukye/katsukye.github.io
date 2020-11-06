@@ -1,4 +1,5 @@
 /* Header */
+@import "https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap";
 
 h1 {
     color: #9e9e9e;
@@ -10,8 +11,8 @@ h1 {
 
 body {
     font-size: 10pt;
-    font-family: Arial;
-    background-color: #e0e0e0;
+    font-family: 'Roboto', sans-serif;
+    background-color: #6b6b6b;
     color: #757575;
 }
 
@@ -53,7 +54,7 @@ input {
 /* Mascot */
 
 #mascot {
-    background-image: url("../images/mascots/mascot.png");
-    background-position: left bottom;
-    background-size: auto 400px;
+    background-image: url("../images/mascots/evamascot.png");
+    background-position: right bottom;
+    background-size: auto 1200px;
 }

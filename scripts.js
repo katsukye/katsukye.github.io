@@ -1,0 +1,1 @@
+getElementByClassName("clear-flex")[0].focus()
